@@ -1,0 +1,79 @@
+k"wake up" routine: 1. opens spotify
+		 2. opens studysmarter
+		 3. opens calendar
+"stop": stop listening
+"play some music": plays my playlist
+"calculator": opens calculator
+"notepad": opens notepad
+"open youtube"
+"open spotify"
+"update spreadsheet"
+"open netflix"
+"open disney"
+"open my google"
+"open mom google"
+"open discord"
+"open files"
+"start"
+"play a game"
+'wikipedia'
+'the time'
+'your name'
+'who made you'
+'stand for'
+'your friend'
+'GitHub'
+'dictionary'
+"pause"
+"play"
+"mute"
+"volume up"
+"volume down"
+
+"hello"
+"good"
+"fine how about you"
+"are you ok"
+"what's your name"
+"what do you do"
+"what tasks can you do"
+"hello"
+"how are you"
+"movies"
+"games"
+"marvel"
+"coding"
+"food"
+"travel"
+"ai"
+"tech"
+"music"
+"dream"
+"inspiration"
+"hobbies"
+"nature"
+"future"
+"how's it going"
+"tell me a joke"
+"what's your favorite movie"
+"tell me a fun fact"
+"got any travel tips"
+"what's your favorite food"
+"tell me a story"
+"how's the weather"
+"share a travel story"
+"favorite superhero"
+"life's mysteries"
+"coding adventures"
+"future predictions"
+"hidden talents"
+"will you marry me"
+"are you single"
+"tell me a secret"
+"future career"
+"fear of missing out"
+"secret talent"
+"summer plans"
+
+volume down with fist 
+volume up point up
